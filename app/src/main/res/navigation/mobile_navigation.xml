@@ -24,6 +24,7 @@
             android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
             app:destination="@id/nav_home" />
 
+
         <argument
             android:name="myArg"
             app:argType="string" />
@@ -40,4 +41,11 @@
         android:name="com.aishahansari.lifeshare.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_signin"
+        android:name="com.aishahansari.lifeshare.SignIn"
+        android:label=""
+        tools:layout="@layout/sign_in_fragment" />
+
 </navigation>
