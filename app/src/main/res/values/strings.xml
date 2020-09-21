@@ -14,4 +14,23 @@
     <string name="home_second">Home Second</string>
     <string name="quote">Blood donation is the real act of humanity</string>
     <string name="Signup">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username_hint">Username</string>
+    <string name="Passsword_hint">Password</string>
+    <string name="register_btn_txt">Register</string>
+    <string name="lifeshare_icon_img">lifeShare Icon</string>
+    <string name="login_register_btn_txt">Login/Register</string>
+    <string name="Firstname_txt">First Name</string>
+    <string name="Lastname_txt">Last Name</string>
+    <string name="Dob_txt">Date Of Birth</string>
+    <string name="Gender_txt">Gender</string>
+    <string name="male_txt">Male</string>
+    <string name="female_txt">Female</string>
+    <string name="others_txt">Others</string>
+    <string name="Phone_txt">Phone no.</string>
+    <string name="Email_txt">Email</string>
+    <string name="Address_txt">Address</string>
+    <string name="Username_txt">Username</string>
+    <string name="password_txt">Password</string>
+    <string name="ConfirmPassword_txt">Confirm Password</string>
 </resources>
