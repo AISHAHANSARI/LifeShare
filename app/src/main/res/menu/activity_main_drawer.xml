@@ -26,5 +26,10 @@
             android:title="@string/Signup"
             android:icon="@drawable/register"
             />
+        <item
+            android:id="@+id/nav_info"
+            android:title="Learn About Blood!"
+            android:icon="@drawable/info"
+            />
     </group>
 </menu>

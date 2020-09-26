@@ -1,4 +1,4 @@
-package com.aishahansari.lifeshare;
+package com.aishahansari.lifeshare.ui.signup;
 
 import androidx.lifecycle.ViewModel;
 

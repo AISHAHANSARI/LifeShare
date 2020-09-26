@@ -1,4 +1,4 @@
-package com.aishahansari.lifeshare;
+package com.aishahansari.lifeshare.ui.signin;
 
 import androidx.lifecycle.ViewModelProviders;
 
@@ -11,6 +11,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.aishahansari.lifeshare.R;
 
 
 public class SignIn extends Fragment {
