@@ -20,7 +20,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="10dp"
             android:padding="5dp"
-            android:text="Requirements by Donation Type"
+            android:text="@string/requirements_by_donation_type"
             android:textAlignment="center"
             android:textColor="#6C0505"
             android:textSize="30sp"
@@ -33,195 +33,186 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:padding="5dp"
-            android:text="To ensure the safety of both patients and donors, these are some of the requirements donors must meet to be eligible to donate blood based on their donation type."
+            android:text="@string/info_qoute"
             android:textAlignment="center"
             android:textColor="#051863"
             android:textSize="18sp"
             app:fontFamily="@font/acme" />
 
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/textView6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:padding="5dp"
-            android:text="Common Reasons People Can't Donate !"
+            android:text="@string/common_reason"
             android:textAlignment="center"
             android:textColor="#BC0B11"
             android:textSize="20sp"
             app:fontFamily="@font/acme" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/textView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="Cold, Flu and Other Types of Illness"
+            android:text="@string/cold_heading"
             android:elevation="5dp"
             android:textColor="#000000"
             android:textSize="22sp"
             app:fontFamily="@font/alegreya_sans_medium_italic" />
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/textView8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="If you don’t feel well on the day of your donation, please call to cancel. We’ll be happy to see you 24 hours after your symptoms pass."
-            android:textSize="18dp"
+            android:text="@string/cold_info"
             android:textColor="#221F1F"
+            android:textSize="18sp"
             app:fontFamily="@font/alegreya_sans_medium" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/textView9"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="Information About Medications"
+            android:text="@string/med_heading"
             android:textColor="#000000"
             android:elevation="5dp"
             android:textSize="22sp"
             app:fontFamily="@font/alegreya_sans_medium_italic" />
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/textView10"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="Most medications will not disqualify you from being able to donate blood, but may require a waiting period after your final dose."
-             android:textSize="18dp"
+            android:text="@string/med_info"
             android:textColor="#221F1F"
+            android:textSize="18sp"
             app:fontFamily="@font/alegreya_sans_medium" />
 
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/textView11"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="Low Iron"
+            android:text="@string/iron_heading"
             android:textColor="#000000"
             android:elevation="5dp"
             android:textSize="22sp"
             app:fontFamily="@font/alegreya_sans_medium_italic" />
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/textView12"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="If you were unable to donate due to low iron, you may still be able to donate in the future. We recommends taking steps to help increase your iron level."
-            android:textSize="18dp"
+            android:text="@string/iron_info"
             android:textColor="#221F1F"
+            android:textSize="18sp"
             app:fontFamily="@font/alegreya_sans_medium" />
 
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/textView13"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
-            android:padding="3dp"
-            android:text="Travel Outside of the India"
-            android:textColor="#000000"
             android:elevation="5dp"
-            android:textSize="22sp"
-            app:fontFamily="@font/alegreya_sans_medium_italic" />
-
-        <TextView
-            android:id="@+id/textView7"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="You may be deferred from donating blood or platelets if you have lived in or traveled to a malaria-risk country in the past three years."
-            android:textSize="18dp"
-            android:textColor="#221F1F"
-            app:fontFamily="@font/alegreya_sans_medium" />
-
-
-        <TextView
-            android:id="@+id/textView6"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginRight="10dp"
-            android:padding="3dp"
-            android:text="Whole Blood Donation"
+            android:text="@string/travel_heading"
             android:textColor="#000000"
             android:textSize="22sp"
             app:fontFamily="@font/alegreya_sans_medium_italic" />
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/textView14"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="“Whole blood” is simply the blood that flows through your veins. It contains red cells, white cells, and platelets, suspended in plasma.
-            \n•	Donation frequency: Every 56 days*
-            \n•	You must be in good health and feeling well**
-            \n•	You must be at least 16 years old in most states
-            \n•	You must weigh at least 110 lbs "
-            android:textSize="18dp"
+            android:text="@string/traveling_info"
             android:textColor="#221F1F"
+            android:textSize="18sp"
             app:fontFamily="@font/alegreya_sans_medium" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/textView15"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text="Power Red Donation"
+            android:text="@string/whole_blood_heading"
+            android:textColor="#000000"
+            android:textSize="22sp"
+            app:fontFamily="@font/alegreya_sans_medium_italic" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="3dp"
+            android:text="@string/whole_blood_info"
+            android:textColor="#221F1F"
+            android:textSize="18sp"
+            app:fontFamily="@font/alegreya_sans_medium" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="3dp"
+            android:text="@string/power_red_heading"
             android:textColor="#000000"
             android:textSize="22sp"
             app:fontFamily="@font/alegreya_sans_medium_italic" />
 
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/textView18"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:padding="3dp"
-            android:text=" Power Red is similar to a whole blood donation, except a special machine is used to allow you to safely donate two units of red blood cells during one donation while returning your plasma and platelets to you.
-\n•	Donation frequency: Every 112 days, up to 3 times/year*
-\n•	You must be in good health and feeling well**
-\n•	Male donors+ must be at least 17 years old in most states, at least 5.1ft tall and weigh at least 130 lbs
-        \n•	Female donors+ must be at least 19 years old, at least 5.5ft tall and weigh at least 150 lbs "
-            android:textSize="18dp"
+            android:text="@string/power_red_info"
             android:textColor="#221F1F"
+            android:textSize="18sp"
             app:fontFamily="@font/alegreya_sans_medium" />
 
     </LinearLayout>

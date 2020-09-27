@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">LifeShare</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -33,4 +33,40 @@
     <string name="Username_txt">Username</string>
     <string name="password_txt">Password</string>
     <string name="ConfirmPassword_txt">Confirm Password</string>
+    <string name="requirements_by_donation_type">Requirements by Donation Type</string>
+    <string name="info_qoute">To ensure the safety of both patients and donors, these are some of the requirements donors must meet to be eligible to donate blood based on their donation type.</string>
+    <string name="common_reason">Common Reasons People Can\'t Donate !</string>
+    <string name="cold_heading">Cold, Flu and Other Types of Illness</string>
+    <string name="cold_info">If you don’t feel well on the day of your donation, please call to cancel. We’ll be happy to see you 24 hours after your symptoms pass.</string>
+    <string name="med_heading">Information About Medications</string>
+    <string name="med_info">Most medications will not disqualify you from being able to donate blood, but may require a waiting period after your final dose.</string>
+    <string name="iron_heading">Low Iron</string>
+    <string name="iron_info">If you were unable to donate due to low iron, you may still be able to donate in the future. We recommends taking steps to help increase your iron level.</string>
+    <string name="travel_heading">Travel Outside of the India</string>
+    <string name="traveling_info">You may be deferred from donating blood or platelets if you have lived in or traveled to a malaria-risk country in the past three years.</string>
+    <string name="whole_blood_heading">Whole Blood Donation</string>
+    <string name="whole_blood_info">“Whole blood” is simply the blood that flows through your veins. It contains red cells, white cells, and platelets, suspended in plasma. \n• Donation frequency: Every 56 days* \n• You must be in good health and feeling well** \n• You must be at least 16 years old in most states \n• You must weigh at least 110 lbs</string>
+    <string name="power_red_heading">Power Red Donation</string>
+    <string name="power_red_info">Power Red is similar to a whole blood donation, except a special machine is used to allow you to safely donate two units of red blood cells during one donation while returning your plasma and platelets to you. \n• Donation frequency: Every 112 days, up to 3 times/year* \n• You must be in good health and feeling well** \n• Male donors+ must be at least 17 years old in most states, at least 5.1ft tall and weigh at least 130 lbs \n• Female donors+ must be at least 19 years old, at least 5.5ft tall and weigh at least 150 lbs</string>
+    <string name="platelete_heading" >Platelet Donation</string>
+    <string name="platelete_info">Platelets are tiny cells in your blood that form clots and stop bleeding. For millions of Americans, they are essential to surviving and fighting cancer, chronic diseases, and traumatic injuries. Every 15 seconds someone needs platelets. Platelets must be used within five days and new donors are needed every day.
+       \n •	Donation frequency: Every 7 days, up to 24 times/year*
+    \n•	You must be in good health and feeling well**
+    \n•	You must be at least 17 years old in most states
+    \n•	You must weigh at least 110 lbs</string>
+    <string name="elite_heading">AB Elite Plasma Donation</string>
+    <string name="elite_info">During a plasma-only donation, blood is drawn from one arm and sent through a high-tech machine that collects your plasma and then safely and comfortably returns your red cells and platelets back to you, along with some saline. It takes only a few minutes longer than donating blood but can have a profound impact.
+    Donors with type AB blood make ideal candidates for AB Elite plasma or platelet donations.
+
+    \n•	Donation frequency: Every 28 days, up to 13 times/year*
+    \n•	You must have type AB blood
+    \n•	You must be in good health and feeling well**
+    \n•	You must be at least 17 years old
+    \n•	You must weigh at least 110 lbs</string>
+    <string name="process">How does the blood donation process work?</string>
+
+
+
+
+
 </resources>
