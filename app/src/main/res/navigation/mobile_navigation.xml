@@ -56,5 +56,4 @@
         android:name="com.aishahansari.lifeshare.ui.learnaboutblood.LearnAboutBlood"
         android:label=""
         tools:layout="@layout/learn_about_blood_fragment" />
-
 </navigation>
